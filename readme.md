@@ -25,9 +25,9 @@ Create a `.env` file in the root directory with the following variables:
 ```env
 BOT_TOKEN=8890953986: AAFaLT1UWKMFZn8v8iv18_KiYSn
 -HK2QiKs
-MONGODB_URI=your_mongodb_connection_string
-DATABASE_NAME=my_database
+MONGODB_URI=mongodb+srv://j99663704_db_user:HLmubpjAjGOefVRG@cluster0.yxeuha5.mongodb.net/?appName=Cluster0
+DATABASE_NAME=jaideep
 API_URL=https://your-api-domain.com
-API_KEY=your_api_key_here
-ADMIN_IDS=123456789,987654321
+API_KEY=Ownerbaby-NrErk-EkLWuY-Q
+ADMIN_IDS=8890953986
 ```
